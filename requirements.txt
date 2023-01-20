@@ -75,7 +75,7 @@ ipython==7.14.0
 ipython-genutils==0.2.0
 javascripthon==0.10
 jax==0.3.25
-jaxlib==0.4.1
+jaxlib==0.3.25
 jdcal==1.4.1
 jedi==0.17.0
 Jinja2==3.1.2
